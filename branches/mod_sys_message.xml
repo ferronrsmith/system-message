@@ -6,7 +6,7 @@
   <copyright>(C) 2010 Ferron Smith</copyright>
   <license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
   <authorEmail>ferronrsmith@gmail.com</authorEmail>
-  <version>0.1</version>
+  <version>0.3</version>
   <description>The following message adds a system message to a page</description>
   <files>
     <filename module="mod_sys_message">mod_sys_message.php</filename>

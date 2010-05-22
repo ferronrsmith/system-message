@@ -1,6 +1,6 @@
 <?php
 /**
-* @version 0.1
+* @version 0.3
 * @package System Message
 * @copyright (C) 2010 Ferron Smith
 * @license http://www.gnu.org/copyleft/gpl.html GNU/GPL
