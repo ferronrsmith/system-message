@@ -2,12 +2,13 @@
 <install type="module" version="1.5.0">
 <name>System Message</name>
   <author>Ferron Smith</author>
-  <creationDate>May 2010</creationDate>
+  <creationDate>May 24 2010</creationDate>
   <copyright>(C) 2010 Ferron Smith</copyright>
   <license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
   <authorEmail>ferronrsmith@gmail.com</authorEmail>
-  <version>0.3</version>
-  <description>The following message adds a system message to a page</description>
+  <authorUrl>http://code.google.com/p/system-message</authorUrl>
+  <version>0.4.2</version>
+  <description>The following module adds a system message to a specified page</description>
   <files>
     <filename module="mod_sys_message">mod_sys_message.php</filename>
   </files>
