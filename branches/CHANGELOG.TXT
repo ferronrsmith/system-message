@@ -1,0 +1,70 @@
+/**
+* @version		$Id: CHANGELOG.TXT 1 2010-05-24 07:51:00 $
+* @module		System Message Creator
+* @copyright	Copyleft (C) 2010 Ferron Smith. All rights reserved.
+* @license		GNU/GPL
+* System Message Creator is free. This version may have been modified pursuant
+* to the GNU General Public License, and as distributed it includes or
+* is derivative of works licensed under the GNU General Public License or
+* other free or open source software licenses.
+* See COPYRIGHT.php for copyright notices and details.
+*/
+
+1. Copyright and disclaimer
+---------------------------
+This module is opensource software released under the GPL.  Please
+see source code and the LICENSE file.
+
+
+2. Changelog
+------------
+This is a non-exhaustive (but still near complete) changelog for
+System Message Creator, including beta and release candidate versions.
+Our thanks to all those people who've contributed bug reports and
+code fixes.
+
+Legend:
+
+* -> Security Fix
+# -> Bug Fix
+$ -> Language fix or change
++ -> Addition
+^ -> Change
+- -> Removed
+! -> Note
+
+-------------------- 0.4.2 Stable Release [24-May-2010] ------------------
+23-May-2010 Ferron Smith
+ - Remove redundant code
+ - Remove helper function
+ ^ Reduce code size
+ ! settings.css is now compressed 
+ 
+-------------------- 0.4.1 Beta Release [24-May-2010] ------------------
+23-May-2010 Ferron Smith
+ - Remove redundant code
+ + Added helper function
+
+-------------------- 0.4 Stable Release [24-May-2010] ------------------
+23-May-2010 Ferron Smith
+ + Added settings.css to main module
+ ^ Updated application to version # 0.4
+ + Created a complete, 1 pack module.
+ + Added images to the main module
+ 
+-------------------- 0.3 Stable Release [23-May-2010] ------------------
+22-May-2010 Ferron Smith
+ ^ Updated application to version # 0.3
+ - Remove template hack
+ - Remove images copy hack
+
+-------------------- 0.2 Stable Release [21-May-2010] ------------------
+21-May-2010 Ferron Smith
+ + Added script to communicate with main template
+ + Added script to edit main template
+ + Added script to copy images to img folder
+
+-------------------- 0.1 Stable Release [21-May-2010] ------------------
+21-May-2010 Ferron Smith 
+ ^ Updated internal methods to support multiple operation
+ - Remove redundant code from source file
