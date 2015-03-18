@@ -1,0 +1,20 @@
+# Introduction #
+
+Joomla system-message creator is a module that came about when I was thinking of a way to add system messages to a page. I thought of writing css and adding it in a div, but that was not reusable. i created a module (my very 1st) to take a **user message** and **message\_type** place it in a div and set a css style.
+
+
+Install the module and your done. For further information on using this module, please see link below:
+
+
+For more information on setting up and using this module view the following resource:
+
+https://docs.google.com/viewer?url=http://system-message.googlecode.com/files/How%2520to%2520add%2520system%2520messages%2520Joomla.pdf
+
+
+# Details #
+
+Three styles are currently supported:
+
+  * error
+  * alert
+  * message
